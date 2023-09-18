@@ -442,11 +442,11 @@
 
 <script setup>
 import { ref } from "vue";
-import Spotlight from '../components/Spotlight.vue'
-import SpotlightCard from '../components/SpotlightCard.vue'
-import Card01 from '../assets/images/logo/footer.png'
-import Card02 from '../assets/images/logo/footer.png'
-import Card03 from '../assets/images/logo/footer.png'
+import Spotlight from '@/components/Spotlight.vue'
+import SpotlightCard from '@/components/SpotlightCard.vue'
+import Card01 from '@/assets/images/logo/footer.png'
+import Card02 from '@/assets/images/logo/footer.png'
+import Card03 from '@/assets/images/logo/footer.png'
 
 import TestimonialImg01 from "@/assets/images/logo/footer.png"
 import TestimonialImg02 from "@/assets/images/logo/footer.png"
