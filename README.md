@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# NoronVPN Official Website source-code
+Noron aims to provide private, secure & **Free** Internet to Its users.
+For more Information, join the [Telegram channel](https://t.me/noronvpn).
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 
